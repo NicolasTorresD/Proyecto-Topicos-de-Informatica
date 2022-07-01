@@ -1,0 +1,31 @@
+.image{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.box{
+    width: 1270px;  
+    border-style: solid; 
+    margin-bottom: 15px;
+    display: flex;
+    margin-right: 50px;
+}
+
+.bottom_box{
+    text-align: left;
+    margin-right: 30px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 800px;
+    display: flex;
+}
+
+.payButton{
+    height: 40px;
+    width: 60px;
+    align-self: center;
+    position: absolute;
+    margin-left: 360px;
+}

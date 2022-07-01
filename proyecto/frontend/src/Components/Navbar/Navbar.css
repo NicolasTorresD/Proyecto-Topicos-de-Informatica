@@ -1,0 +1,15 @@
+.Navbar {
+    background-color: aqua;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 75px ;
+    padding-bottom: 50px;
+}
+
+.button {
+    width: 150px;
+    border-color: white;
+    border-style: ridge;
+    background-color: white;
+    padding: 20px 30px;
+}

@@ -1,0 +1,17 @@
+.box1{
+    border-style: ridge;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    margin-left: 330px
+}
+
+.box2{
+    border-style: ridge;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    margin-left: 140px;
+}
